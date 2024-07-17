@@ -3,7 +3,13 @@
 print("you got out")'''
 
 
-mysum = 0 
+'''mysum = 0 
 for i in range(7,10):
 	mysum += i
-print(mysum)
+print(mysum)'''
+
+
+n = 0 
+while n < 5: 
+    print(n)
+    n = n+ 1 
